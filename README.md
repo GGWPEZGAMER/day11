@@ -106,9 +106,8 @@ kubectl get pods
 kubectl exec -it myapp -- printenv
 ```
 You will see like this  
-```bash
 <img width="637" height="113" alt="image" src="https://github.com/user-attachments/assets/2c67aff3-213f-4e92-8dec-fd8b89f741ef" />
-```
+  
 Check out the today's lecture from Original Mentor #Piyushsachdeva  
 Youtube - https://youtu.be/yRiFq1ykBxc?si=JZ-nrKc0AIW3nGZD  
 Github - https://github.com/piyushsachdeva/CKA-2024/blob/main/Resources/Day11/readme.md  
